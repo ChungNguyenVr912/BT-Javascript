@@ -27,7 +27,7 @@ key3.addEventListener("click", function()
 {
     let a = prompt("Nhap vao a:");
     let b = prompt("Nhap vao b:");
-    let c = a%b;
+    // let c = a%b;
     if(a%b == 0)
     {
         alert('a chia het cho b');
