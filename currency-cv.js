@@ -8,6 +8,7 @@ function F()
     if(u1=='USD' && u2 == 'VND')
     {
         res.innerHTML = am*23000;
+        
     }
     if(u1== 'VND' && u2== 'USD')
     {
